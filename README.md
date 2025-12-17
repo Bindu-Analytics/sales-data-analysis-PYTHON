@@ -28,30 +28,30 @@ This project focuses on analyzing business sales data using Python to uncover tr
 ---
 
 ## 🧠 Analysis Tasks & Approach
-Loaded and explored multiple CSV datasets
-Handled missing values using appropriate business logic
-Cleaned and transformed raw data for analysis
-Split and standardized text-based columns
-Merged multiple datasets using joins
-Created new calculated and derived columns
-Applied conditional logic to generate insights
-Prepared structured datasets ready for reporting and further analysis
+- Loaded and explored multiple CSV datasets
+- Handled missing values using appropriate business logic
+- Cleaned and transformed raw data for analysis
+- Split and standardized text-based columns
+- Merged multiple datasets using joins
+- Created new calculated and derived columns
+- Applied conditional logic to generate insights
+- Prepared structured datasets ready for reporting and further analysis
 
 ## 📁 Datasets Used
-Employee data
-Finance data
-Project-related data
+- Employee data
+- Finance data
+- Project-related data
 
 ## 📈 Key Outcomes
-Created clean, structured datasets suitable for reporting and dashboards
-Improved data consistency by handling missing and inconsistent values
-Enabled cross-dataset analysis through effective data merging
-Generated derived metrics to support business insights
+- Created clean, structured datasets suitable for reporting and dashboards
+- Improved data consistency by handling missing and inconsistent values
+- Enabled cross-dataset analysis through effective data merging
+- Generated derived metrics to support business insights
 
 ## 📌 Skills Demonstrated
-Data Cleaning & Preprocessing
-Data Wrangling using Pandas
-Data Merging & Joins
-Feature Engineering
-Business Logic Implementation
-Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Data Wrangling using Pandas
+- Data Merging & Joins
+- Feature Engineering
+- Business Logic Implementation
+- Exploratory Data Analysis (EDA)
